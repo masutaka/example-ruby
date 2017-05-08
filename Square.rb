@@ -7,6 +7,6 @@ class Square
   end
 
   def area
-    side*side
+    side * side
   end
 end
