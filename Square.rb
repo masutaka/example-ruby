@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+
 class Square
   attr_reader :side
   def initialize(side)
@@ -6,6 +7,6 @@ class Square
   end
 
   def area
-    side*side
+    side * side
   end
 end
