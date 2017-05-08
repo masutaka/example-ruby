@@ -2,6 +2,6 @@
 
 An example ruby repo for using GitHub and Travis-CI.
 
-hoge
+hogehoge
 
 This is a last line.
