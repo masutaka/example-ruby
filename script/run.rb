@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+
 require "./Square.rb"
 
 sq = Square.new(5)
